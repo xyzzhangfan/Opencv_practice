@@ -1,0 +1,3 @@
+/Users/fan/Desktop/Opencv_practice/using terminal to show a image/CMakeFiles/rebuild_cache.dir
+/Users/fan/Desktop/Opencv_practice/using terminal to show a image/CMakeFiles/edit_cache.dir
+/Users/fan/Desktop/Opencv_practice/using terminal to show a image/CMakeFiles/DisplayImage.dir
